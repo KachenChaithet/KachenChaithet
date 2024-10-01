@@ -11,19 +11,20 @@
 </div>
 
 
+# KachenChaithet/KachenChaithet
 
-KachenChaithet/KachenChaithet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ _Special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on several projects in C, including a frog jump calculator, leap year checker, and an 8-puzzle game.
+- 🌱 I’m currently learning about data structures, algorithms, and game development using Unity and Blender.
+- 👯 I’m looking to collaborate on programming projects or game development, particularly in C or Unity.
+- 🤔 I’m looking for help with advanced algorithms and optimization techniques in coding.
+- 💬 Ask me about programming, technology, or my experiences in the BangMod Hackathon.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’ve been passionate about technology since childhood, thanks to my mother’s work in document administration, which allowed me to explore computers early on.
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
