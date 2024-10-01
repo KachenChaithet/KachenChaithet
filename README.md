@@ -17,11 +17,9 @@
 
 ## About Me
 
-- 🔭 I’m currently working on several projects in C, including a frog jump calculator, leap year checker, and an 8-puzzle game.
 - 🌱 I’m currently learning about data structures, algorithms, and game development using Unity and Blender.
 - 👯 I’m looking to collaborate on programming projects or game development, particularly in C or Unity.
 - 🤔 I’m looking for help with advanced algorithms and optimization techniques in coding.
-- 💬 Ask me about programming, technology, or my experiences in the BangMod Hackathon.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’ve been passionate about technology since childhood, thanks to my mother’s work in document administration, which allowed me to explore computers early on.
 
