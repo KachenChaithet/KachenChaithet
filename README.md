@@ -13,7 +13,7 @@
 
 # KachenChaithet/KachenChaithet
 
-✨ _Special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ## About Me
 
